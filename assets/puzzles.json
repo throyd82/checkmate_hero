@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Scholar's Mate",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+    "solution": "Qxf7#",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 2,
+    "name": "Back Rank Mate",
+    "fen": "6k1/5ppp/8/8/8/8/8/4R1K1 w - - 0 1",
+    "solution": "Re8#",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 3,
+    "name": "Smothered Mate",
+    "fen": "6nk/6pp/8/6N1/8/8/8/7K w - - 0 1",
+    "solution": "Nf7#",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 4,
+    "name": "Anastasia's Mate",
+    "fen": "k6r/pp4p1/8/3N4/8/8/8/R5K1 w - - 0 1",
+    "solution": "Nb6#",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 5,
+    "name": "The Ladder Mate",
+    "fen": "k7/8/1R6/8/8/8/r7/1K6 w - - 0 1",
+    "solution": "Rb8#",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 6,
+    "name": "Corner Mate",
+    "fen": "7k/5Npp/8/8/8/8/8/7K w - - 0 1",
+    "solution": "Nh6#",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 7,
+    "name": "Fool's Mate Revisit",
+    "fen": "rnbqkbnr/ppppp2p/5p2/6pQ/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 1",
+    "solution": "Qxh5#",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 8,
+    "name": "Opera Mate Pattern",
+    "fen": "4k3/8/8/8/8/8/5B2/4R1K1 w - - 0 1",
+    "solution": "Re8#",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "name": "Dovetail Mate",
+    "fen": "2r5/pp1b4/5k2/2pP4/2P1Q3/P7/1P3PPP/6K1 w - - 0 1",
+    "solution": "Qf4#",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 10,
+    "name": "Boden's Mate",
+    "fen": "2kr4/ppp2pp1/2p5/2b5/4P3/2N5/PPPP1PP1/R1B1KB1R w KQ - 0 1",
+    "solution": "Ba6#",
+    "difficulty": "Advanced"
+  }
+]
