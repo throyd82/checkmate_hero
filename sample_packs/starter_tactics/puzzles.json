@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1001,
+    "packId": "starter-tactics",
+    "name": "Back Rank Pattern",
+    "fen": "6k1/5ppp/8/8/8/8/8/4R1K1 w - - 0 1",
+    "difficulty": "Beginner",
+    "mode": "line",
+    "movesToSolve": 1,
+    "lineUci": ["e1e8"],
+    "solutionUci": "e1e8"
+  },
+  {
+    "id": 1002,
+    "packId": "starter-tactics",
+    "name": "Forced Mate in 2",
+    "fen": "1rb1kb1r/pp1p2pp/P1p4n/n3ppq1/3P1P2/1NN4P/1PP1P1P1/R1BQKB1R b KQk - 3 12",
+    "difficulty": "Advanced",
+    "mode": "line",
+    "movesToSolve": 2,
+    "lineUci": ["g5g3", "e1d2", "a5c4"],
+    "solutionUci": "g5g3"
+  }
+]

@@ -9,6 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  http: ^1.2.2
+  archive: ^4.0.7
+  crypto: ^3.0.3
+  path_provider: ^2.1.4
+  shared_preferences: ^2.3.2
   
   # For chess logic (move validation, game state)
   chess: ^0.8.1

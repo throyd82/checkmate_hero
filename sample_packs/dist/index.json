@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "starter-tactics",
+      "name": "Starter Tactics Pack",
+      "version": "1.0.0",
+      "puzzleCount": 2,
+      "url": "http://localhost:8000/starter-tactics-1.0.0.zip",
+      "sha256": "90b776befc5aec9c9dd5ae74304e1872d2ae61e7969e10a0bcb37ef98b578055"
+    }
+  ]
+}
